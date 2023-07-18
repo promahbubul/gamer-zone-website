@@ -2,6 +2,8 @@
 /* Inport font             */
 /* ======================= */
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url(./mobile.css);
+@import url(./tablet.css);
 
 /* font-family: 'Work Sans', sans-serif; */
 
@@ -23,38 +25,226 @@
 }
 
 /* ======================= */
-/* Header                  */
+/* Header Section          */
 /* ======================= */
 header {
 }
 
 /* ======================= */
-/* Main                  */
+/* Nav Section             */
 /* ======================= */
+.nav {
+}
+.nav-left {
+}
+.nav-left img {
+}
+.nav-left h2 {
+}
+
+.nav-right {
+}
+.nav-menu {
+}
+.nav-menu a {
+}
+.nav-follower {
+}
+.nav-follower span {
+}
+.nav-follower img {
+}
+
+/* ======================= */
+/* Hero Section            */
+/* ======================= */
+.hero {
+}
+.hero-left {
+}
+.hero-left-content {
+}
+.hero-left-content h2 {
+}
+.hero-left-content h3 {
+}
+.hero-icon-container {
+}
+
+.hero-iocn-group {
+}
+.hero-iocn-group img {
+}
+.hero-iocn-group p {
+}
+.hero-left-button {
+}
+.hero-button {
+}
+.hero-button button {
+}
+.hero-right {
+}
+.hero-right img {
+}
+
+/* ======================= */
+/* Main Section            */
+/* ======================= */
+
 main {
 }
 
 /* ======================= */
-/* Navbar                  */
+/* Gammer Section          */
 /* ======================= */
-.navbar {
-  display: flex;
-  justify-content: space-between;
-  padding: 20px;
+.gammer {
 }
-.nav-left {
-  font-size: 35px;
+.gammer-left {
 }
-.nav-right {
+.gammer-left img {
 }
-.nav-right ul {
+.gammer-right {
 }
-.nav-right ul li {
+.gammer-right h2 {
 }
-.nav-line {
+.gammer-right p {
+}
+.gammer-right button {
+}
+.gammer-right span {
+}
+.gammer-everyone {
 }
 /* ======================= */
-/* Footer                  */
+/* Video Section           */
 /* ======================= */
-footer {
+.video {
+}
+.video-left {
+}
+.video-left h1 {
+}
+.video-left p {
+}
+.video-right {
+}
+.video-container {
+}
+.video-container img {
+}
+.video-container p {
+}
+
+/* ======================= */
+/* Paly Section            */
+/* ======================= */
+.play {
+}
+.play-left {
+}
+.paly-title {
+}
+.paly-title-one {
+}
+.play-left p {
+}
+
+.play-right img {
+}
+
+.play-main-photo {
+}
+.play-small-photo {
+}
+
+/* ======================= */
+/* Carreer Section         */
+/* ======================= */
+.carrer {
+}
+.carrer-left {
+}
+.carrer-left-top {
+}
+.carrer-left-top h3 {
+}
+.carrer-left-top p {
+}
+
+.carrer-list-container {
+}
+.carrer-list-left {
+}
+.carrer-list-left ul {
+}
+.carrer-list-left ul li {
+}
+
+.carrer-list-right {
+}
+.carrer-list-right ul {
+}
+.carrer-list-right ul li {
+}
+
+.carrer-left-bottom {
+}
+.carrer-left-bottom button {
+}
+.carrer-right {
+}
+.carrer-right img {
+}
+
+/* ======================= */
+/* Category Section        */
+/* ======================= */
+.category {
+}
+.category-group {
+}
+.category-group img {
+}
+.category-group p {
+}
+
+/* ======================= */
+/* Footer Section          */
+/* ======================= */
+.footer {
+}
+
+.footer-top {
+}
+.footer-top img {
+}
+.footer-top h2 {
+}
+.footer-top span {
+}
+.footer-menu {
+}
+.footer-menu ul {
+}
+.footer-menu ul li {
+}
+.footer-menu ul li a {
+}
+
+.footer-bottom {
+}
+.footer-icons {
+}
+.footer-icons img {
+}
+.footer-important-links {
+}
+.footer-important-links ul {
+}
+.footer-important-links ul li {
+}
+.footer-important-links ul li a {
+}
+.footer-copyright {
 }
