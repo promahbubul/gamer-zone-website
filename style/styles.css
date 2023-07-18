@@ -1,0 +1,46 @@
+:root {
+  --color1: linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%);
+  --color2: #4ec5f7;
+  --color3: #0b0223;
+  --linerOne: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+  --text-color1: #0B0223;
+  --text-color2: #534C64;
+
+}
+
+/* ======================= */
+/* Header                  */
+/* ======================= */
+header {
+}
+
+/* ======================= */
+/* Main                  */
+/* ======================= */
+main {
+}
+
+/* ======================= */
+/* Navbar                  */
+/* ======================= */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.nav-left {
+  font-size: 35px;
+}
+.nav-right {
+}
+.nav-right ul {
+}
+.nav-right ul li {
+}
+.nav-line {
+}
+/* ======================= */
+/* Footer                  */
+/* ======================= */
+footer {
+}
