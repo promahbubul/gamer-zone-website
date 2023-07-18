@@ -1,11 +1,25 @@
+/* ======================= */
+/* Inport font             */
+/* ======================= */
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+/* font-family: 'Work Sans', sans-serif; */
+
+/* ======================= */
+/* Default style           */
+/* ======================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 :root {
   --color1: linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%);
   --color2: #4ec5f7;
   --color3: #0b0223;
-  --linerOne: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
-  --text-color1: #0B0223;
-  --text-color2: #534C64;
-
+  --linerOne: linear-gradient(180deg, #f948b2 0%, #8758f1 100%);
+  --text-color1: #0b0223;
+  --text-color2: #534c64;
 }
 
 /* ======================= */
