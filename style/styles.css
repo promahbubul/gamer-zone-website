@@ -133,7 +133,6 @@ header {
 .hero-left {
   background: url(../images/Group14.png);
   width: 100%;
-  background-size: contain;
   padding-left: 130px;
   display: flex;
   flex-direction: column;
@@ -563,6 +562,7 @@ main {
   gap: 30px;
 }
 .footer-menu ul li {
+  list-style: none;
 }
 .footer-menu ul li a {
   text-decoration: none;
@@ -593,14 +593,19 @@ main {
   gap: 50px;
 }
 .footer-important-links ul li {
+  list-style: none;
 }
+
 .footer-important-links ul li a {
+  list-style: none;
   text-decoration: none;
   color: #fff;
-  font-size: 1rem;
-  font-weight: 200;
+  font-size: 0.9rem;
 }
 .footer-copyright {
+  color: #fff;
+  margin-top: 20px;
+  font-size: 0.8rem;
 }
 
 /* ============================== */
