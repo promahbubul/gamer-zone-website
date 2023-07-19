@@ -384,9 +384,9 @@ main {
 
 .play-online {
   flex-direction: row-reverse;
+  margin-bottom: 130px;
   gap: 140px;
 }
-
 .play-online-left {
   text-align: left;
 }
