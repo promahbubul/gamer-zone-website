@@ -34,10 +34,6 @@
   background: var(--linear, linear-gradient(90deg, #ff42a5 0%, #ff42a5 100%));
 }
 
-.go-rouge {
-  background: #4EC5F7;
-}
-
 .pointer {
   cursor: pointer;
 }
@@ -991,7 +987,6 @@ main {
     margin: 40px 0px;
   }
 
-  
   .carrer-right {
     background: url("../images/Group65.png");
     width: 100%;
@@ -1097,4 +1092,7 @@ main {
   .footer-important-links ul li a {
     font-size: 0.8rem;
   }
+}
+.go-rouge {
+  background: #4ec5f7 !important;
 }
